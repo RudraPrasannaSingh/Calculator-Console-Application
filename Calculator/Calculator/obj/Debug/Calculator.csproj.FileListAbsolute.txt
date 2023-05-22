@@ -1,0 +1,7 @@
+C:\rudra\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\rudra\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\rudra\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\rudra\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\rudra\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\rudra\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\rudra\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
